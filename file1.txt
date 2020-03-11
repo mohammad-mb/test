@@ -2,3 +2,4 @@ file1 test
 
 file1 test2
 line4
+hello
